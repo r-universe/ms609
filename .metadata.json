@@ -1,0 +1,30 @@
+[
+  {
+    "package": "Quartet",
+    "oncran": true
+  },
+  {
+    "package": "Rogue",
+    "oncran": true
+  },
+  {
+    "package": "TBRDist",
+    "oncran": true
+  },
+  {
+    "package": "Ternary",
+    "oncran": true
+  },
+  {
+    "package": "TreeDist",
+    "oncran": true
+  },
+  {
+    "package": "TreeSearch",
+    "oncran": true
+  },
+  {
+    "package": "TreeTools",
+    "oncran": true
+  }
+]
