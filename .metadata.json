@@ -1,14 +1,10 @@
 [
   {
-    "package": "TreeSearch",
+    "package": "Quartet",
     "oncran": true
   },
   {
-    "package": "Ternary",
-    "oncran": true
-  },
-  {
-    "package": "TreeTools",
+    "package": "Rogue",
     "oncran": true
   },
   {
@@ -16,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "Quartet",
+    "package": "Ternary",
     "oncran": true
   },
   {
@@ -24,7 +20,11 @@
     "oncran": true
   },
   {
-    "package": "Rogue",
+    "package": "TreeSearch",
+    "oncran": true
+  },
+  {
+    "package": "TreeTools",
     "oncran": true
   }
 ]

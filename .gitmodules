@@ -3,19 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "TreeSearch"]
-	path = TreeSearch
-	url = https://github.com/ms609/treesearch
+[submodule "Quartet"]
+	path = Quartet
+	url = https://github.com/ms609/quartet
 	shallow = true
 	registered = true
-[submodule "Ternary"]
-	path = Ternary
-	url = https://github.com/ms609/ternary
-	shallow = true
-	registered = true
-[submodule "TreeTools"]
-	path = TreeTools
-	url = https://github.com/ms609/treetools
+[submodule "Rogue"]
+	path = Rogue
+	url = https://github.com/ms609/rogue
 	shallow = true
 	registered = true
 [submodule "TBRDist"]
@@ -23,9 +18,9 @@
 	url = https://github.com/ms609/tbrdist
 	shallow = true
 	registered = true
-[submodule "Quartet"]
-	path = Quartet
-	url = https://github.com/ms609/quartet
+[submodule "Ternary"]
+	path = Ternary
+	url = https://github.com/ms609/ternary
 	shallow = true
 	registered = true
 [submodule "TreeDist"]
@@ -33,8 +28,13 @@
 	url = https://github.com/ms609/treedist
 	shallow = true
 	registered = true
-[submodule "Rogue"]
-	path = Rogue
-	url = https://github.com/ms609/rogue
+[submodule "TreeSearch"]
+	path = TreeSearch
+	url = https://github.com/ms609/treesearch
+	shallow = true
+	registered = true
+[submodule "TreeTools"]
+	path = TreeTools
+	url = https://github.com/ms609/treetools
 	shallow = true
 	registered = true
