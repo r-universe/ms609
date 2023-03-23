@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CongreveLamsdell2016"]
+	path = CongreveLamsdell2016
+	url = https://github.com/cran/CongreveLamsdell2016
+	shallow = true
+	registered = true
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/ms609/quartet
@@ -21,6 +26,11 @@
 [submodule "Ternary"]
 	path = Ternary
 	url = https://github.com/ms609/ternary
+	shallow = true
+	registered = true
+[submodule "TotalCopheneticIndex"]
+	path = TotalCopheneticIndex
+	url = https://github.com/cran/TotalCopheneticIndex
 	shallow = true
 	registered = true
 [submodule "TreeDist"]
