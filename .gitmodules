@@ -8,6 +8,11 @@
 	url = https://github.com/cran/CongreveLamsdell2016
 	shallow = true
 	registered = true
+[submodule "PlotTools"]
+	path = PlotTools
+	url = https://github.com/ms609/plottools
+	shallow = true
+	registered = true
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/ms609/quartet
