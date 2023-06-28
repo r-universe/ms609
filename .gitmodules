@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CongreveLamsdell2016"]
 	path = CongreveLamsdell2016
 	url = https://github.com/cran/CongreveLamsdell2016
-	shallow = true
-	registered = true
 [submodule "PlotTools"]
 	path = PlotTools
 	url = https://github.com/ms609/plottools
-	shallow = true
-	registered = true
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/ms609/quartet
-	shallow = true
-	registered = true
 [submodule "Rogue"]
 	path = Rogue
 	url = https://github.com/ms609/rogue
-	shallow = true
-	registered = true
 [submodule "TBRDist"]
 	path = TBRDist
 	url = https://github.com/ms609/tbrdist
-	shallow = true
-	registered = true
 [submodule "Ternary"]
 	path = Ternary
 	url = https://github.com/ms609/ternary
-	shallow = true
-	registered = true
 [submodule "TotalCopheneticIndex"]
 	path = TotalCopheneticIndex
 	url = https://github.com/cran/TotalCopheneticIndex
-	shallow = true
-	registered = true
 [submodule "TreeDist"]
 	path = TreeDist
 	url = https://github.com/ms609/treedist
-	shallow = true
-	registered = true
 [submodule "TreeSearch"]
 	path = TreeSearch
 	url = https://github.com/ms609/treesearch
-	shallow = true
-	registered = true
 [submodule "TreeTools"]
 	path = TreeTools
 	url = https://github.com/ms609/treetools
-	shallow = true
-	registered = true
