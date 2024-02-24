@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CongreveLamsdell2016"]
 	path = CongreveLamsdell2016
-	url = https://github.com/cran/CongreveLamsdell2016
+	url = https://github.com/ms609/congrevelamsdell2016
 [submodule "PlotTools"]
 	path = PlotTools
 	url = https://github.com/ms609/plottools
