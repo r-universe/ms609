@@ -1,5 +1,11 @@
 [
   {
+    "package": "Rdpack",
+    "url": "https://github.com/GeoBosh/Rdpack",
+    "via": ["TreeTools"],
+    "from": "TreeTools"
+  },
+  {
     "package": "TreeTools",
     "url": "https://github.com/ms609/TreeTools",
     "via": ["TreeDist"],

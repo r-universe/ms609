@@ -11,6 +11,10 @@
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/ms609/quartet
+[submodule "Rdpack"]
+	path = Rdpack
+	url = https://github.com/GeoBosh/Rdpack
+	registered = false
 [submodule "Rogue"]
 	path = Rogue
 	url = https://github.com/ms609/rogue
