@@ -32,3 +32,6 @@
 [submodule "TreeTools"]
 	path = TreeTools
 	url = https://github.com/ms609/treetools
+[submodule "ips"]
+	path = ips
+	url = https://github.com/ms609/ips
