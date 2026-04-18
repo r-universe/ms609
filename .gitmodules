@@ -2,9 +2,42 @@
 	path = .registry
 	url = https://github.com/ms609/ms609.r-universe.dev
 	branch = HEAD
+[submodule "PlotTools"]
+	path = PlotTools
+	url = https://github.com/ms609/PlotTools
+[submodule "Quartet"]
+	path = Quartet
+	url = https://github.com/ms609/Quartet
 [submodule "Rdpack"]
 	path = Rdpack
 	url = https://github.com/ms609/Rdpack
+[submodule "Rogue"]
+	path = Rogue
+	url = https://github.com/ms609/Rogue
+[submodule "TBRDist"]
+	path = TBRDist
+	url = https://github.com/ms609/TBRDist
+[submodule "Ternary"]
+	path = Ternary
+	url = https://github.com/ms609/Ternary
+[submodule "TotalCopheneticIndex"]
+	path = TotalCopheneticIndex
+	url = https://github.com/ms609/tci
+[submodule "TreeDist"]
+	path = TreeDist
+	url = https://github.com/ms609/TreeDist
+[submodule "TreeDistData"]
+	path = TreeDistData
+	url = https://github.com/ms609/TreeDistData
+[submodule "TreeSearch"]
+	path = TreeSearch
+	url = https://github.com/ms609/TreeSearch
 [submodule "TreeTools"]
 	path = TreeTools
 	url = https://github.com/ms609/TreeTools
+[submodule "ips"]
+	path = ips
+	url = https://github.com/ms609/ips
+[submodule "motmot"]
+	path = motmot
+	url = https://github.com/ms609/motmot
