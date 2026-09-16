@@ -5,6 +5,9 @@
 [submodule "CongreveLamsdell2016"]
 	path = CongreveLamsdell2016
 	url = https://github.com/ms609/congrevelamsdell2016
+[submodule "ConsTree"]
+	path = ConsTree
+	url = https://github.com/ms609/constree
 [submodule "PlotTools"]
 	path = PlotTools
 	url = https://github.com/ms609/plottools
