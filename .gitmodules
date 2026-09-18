@@ -8,6 +8,9 @@
 [submodule "ConsTree"]
 	path = ConsTree
 	url = https://github.com/ms609/constree
+[submodule "Coreset"]
+	path = Coreset
+	url = https://github.com/ms609/coreset
 [submodule "PlotTools"]
 	path = PlotTools
 	url = https://github.com/ms609/plottools
